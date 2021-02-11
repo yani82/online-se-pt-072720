@@ -1,0 +1,16 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Panther-Winfield",
+      "species": "Dog",
+      "gender": "male"
+    },
+    {
+      "name": "hafsa",
+      "gender": "Male",
+      "species": "human",
+      "id": 16
+    }
+  ]
+}

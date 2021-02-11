@@ -60,13 +60,6 @@ let turnJSONtoHTML = (jsonObj) => {
   })
 
 }
-
-
-
-
-
-
-
 // dogButton.addEventListener("click", (evt) => {
 
 //   fetch("https://dog.ceo/api/breeds/image/random")
@@ -79,28 +72,15 @@ let turnJSONtoHTML = (jsonObj) => {
 //     console.log(jsonObj);
 
 // })
-
-
-
-
-
-
-
-
-
-
 // function regularFunction(){
 //   console.log("hello")
 //   return "hello"
 // }
-
 // let arrowFunction = () => {
 //   console.log("goodbye");
 //   return "goodbye"
 // }
-
 // let slickArrowFunction = () => "this is going to be returned"
-
 // // let thePromiseObj = fetch("https://dog.ceo/api/breeds/image/random")
 // //
 // // let anotherPromise = thePromiseObj.then(function(response){ return response.json() })
